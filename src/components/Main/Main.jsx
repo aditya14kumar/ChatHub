@@ -42,10 +42,6 @@ const Main = () => {
                 <p>Brainstorm team bonding activities for our work retreat</p>
                 <img src={assets.message_icon} alt="" />
               </div>
-              <div className="card">
-                <p>Improve the readibility of the following code</p>
-                <img src={assets.code_icon} alt="" />
-              </div>
             </div>
           </>
         ) : (
